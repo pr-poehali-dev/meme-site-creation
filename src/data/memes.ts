@@ -327,7 +327,7 @@ export const memes: Meme[] = [
     title: "Skibidi Toilet",
     description: "Вирусная серия YouTube о туалетах и камерах",
     imageUrl:
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400&h=300&fit=crop",
     year: 2024,
     category: "YouTube",
     popularity: 92,
